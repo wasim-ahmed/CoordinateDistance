@@ -1,2 +1,2 @@
-# CoordinateDistance
-Calculation of distance from 2 Latitude &amp; Longitude points
+ # CoordinateDistance
+Calculation of distance in kms from 2 Latitude &amp; Longitude points
